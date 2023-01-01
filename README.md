@@ -1,1 +1,1 @@
-# WhatsApp-Clone---MERN
+# WhatsAppClone-MERN
